@@ -1,0 +1,4 @@
+*.love
+game/
+.vscode/
+.VSCodeCounter/
